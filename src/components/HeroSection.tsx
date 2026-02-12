@@ -55,7 +55,7 @@ const HeroSection = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <motion.a
-              href="#"
+              href="https://github.com/exar1o/PrayerLock-App-Website/releases/download/apk/PrayerLock.apk"
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.98 }}
               className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-primary text-primary-foreground font-semibold text-lg shadow-[var(--shadow-teal)] hover:shadow-[0_0_50px_-8px_hsla(160,48%,42%,0.4)] transition-shadow duration-300"
